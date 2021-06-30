@@ -1,0 +1,4 @@
+SQLAlchemy == 1.4.20
+numpy == 1.21.0
+pandas == 1.2.5
+watchgod == 0.7
